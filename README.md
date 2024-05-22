@@ -17,3 +17,5 @@ git pull
 git add README.md
 git commit README.md -m "jee"
 git push
+
+### ja tämä päivitys tulee verkosta.
