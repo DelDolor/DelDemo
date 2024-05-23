@@ -24,3 +24,5 @@ git push
 git status #näyttää statuksen  
 git log #näyttää commit historian  
 git checkout <<commit-id>> #voit palauttaa vanhan commitin aikaisen tilanteen. luo uuden branchin  
+
+### tämä tulee tähän väliin verkosta
